@@ -8,6 +8,10 @@ ul {
     list-style-type: none;
 }
 
+a {
+    text-decoration: none;
+}
+
 body,
 .header,
 .header ul,
@@ -36,7 +40,7 @@ body,
     align-items: center;
 }
 
-.header ul,
+.header a,
 .hero p,
 button {
     color: #e5e7eb;
