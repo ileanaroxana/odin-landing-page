@@ -1,1 +1,1 @@
-# odin-landing-page
+Images credits: [The Cleveland Museum of Art](https://unsplash.com/@clevelandart)
